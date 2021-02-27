@@ -3,3 +3,27 @@ body{
     background-color: plum;
     font-family: 'Prompt', sans-serif;
 }
+div{
+    color:green;
+}
+.bg-color-red{
+    background-color:pink;
+    font-size: 50px;
+    color: aquamarine;
+}
+.bg-color-gold{
+    background-color:rgb(197, 21, 50);
+}
+.bg-color-pink{
+    background-color:#942281;
+    color: #49b9e6;
+}
+.border-1-radius-5{
+    background-color:#ed710a;
+    color:#cda833;
+    border: 1px solid #ededed;
+    border-radius: 5px;
+    margin: 2px;
+    padding:10px;
+}
+
